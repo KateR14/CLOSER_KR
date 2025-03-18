@@ -81,7 +81,7 @@ Opinions vary, but one thing everyone agrees on is that metadata has a relations
 ## Metadata in everday life
 - Metadata is not exclusive to the research/data context
   
-  **NEEDS IMAGES ADDING**
+![](img/Everyday-metadata.png "Alt text here")
 
 ::: notes
 
@@ -203,7 +203,7 @@ Data file: [NCDS1 Parental Questionnaire (1965) Dataset](https://discovery.close
 
 ## Example questions to understand and use data
 
-**ADD TABLE WITH BUBBLES**
+![](img/Understanding-data-bubbles.png "Alt text here")
 
 ::: notes
 
