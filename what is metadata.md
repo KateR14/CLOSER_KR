@@ -116,7 +116,7 @@ Opinions vary, but one thing everyone agrees on is that metadata has a relations
 
 ## Common issues in (meta)data management
 
-  **NEEDS VIDEO ADDING**
+[SAM1 Video - Data Management ](https://www.youtube.com/watch?v=N2zK3sAtr-4)
 
 - Most obviously, it applies to data which has been collected for a specific purpose, through a measurement such as Blood Pressure, a Question in a survey or census, or as part of an administrative process and data captured through a device such as a location
 - Less obviously it also applies to data such as text, images or sound which is processed into ‘numbers’ for statistical analysis](https://www.youtube.com/watch?v=66oNv_DJuPc 
