@@ -25,7 +25,7 @@ We use the term data all the time, but what do we actually mean?
 
 We consume data all the time. Take weather for example:
 
-*Screenshot of weather app*
+<img src="img/Ldn-apple-weather.jpeg" alt="Alt Text" width="425" height="900">
 
 What data is available when we check the weather?
 
