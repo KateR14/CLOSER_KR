@@ -23,7 +23,7 @@ We use the term data all the time, but what do we actually mean?
 ---
 ## Data is everywhere ...
 
-We consume data all the time. Take weather for example:
+We consume data all the time. Take your weather app for example:
 
 <img src="img/Ldn-apple-weather.jpeg" alt="Alt Text" width="425" height="900">
 
@@ -35,10 +35,6 @@ What data is available when we check the weather?
 
 *Screenshot of weather app - circle data points*
 
-- 'London'
-- 10*
-- 'Sunny conditions will continue all day. Wind gusts up to 12mph.'
-- 'Time'
 
 ---
 
@@ -46,9 +42,9 @@ What data is available when we check the weather?
 
 - Data can be:
   
-  - Numbers
-  - Text
-  - Symbols
+  - Numbers e.g. 16*
+  - Text e.g. 'Sunny conditions will continue all day. Wind gusts up to 12mph.'
+  - Symbols e.g. ☀️
 
 But what are the characteristics of data that differentiates from them being *just* numbers, words and symbols?
 
@@ -91,7 +87,7 @@ Data is a collection of discrete or continuous *values* that convey *information
 
 Data in research has a specific purpose:
 
-  Data that are used as primary sources to support technical or scientific enquiry, research, scholarship, or  artistic activity, and that are used as evidence in the research process and/or are commonly accepted in the research community as necessary to validate research findings and results. 
+- Data that are used as primary sources to support technical or scientific enquiry, research, scholarship, or  artistic activity, and that are used as evidence in the research process and/or are commonly accepted in the research community as necessary to validate research findings and results. 
 
 -- CODATA, https://codata.org/rdm-![image](https://github.com/user-attachments/assets/46421b96-76d1-4d7d-a56c-cf3d6639ffff)
 
@@ -101,21 +97,60 @@ Data in research has a specific purpose:
 
 - Data is a representation of something in the world, that has been captured in a specific way
 
-![](img/concept-measurement-data2.0.png "Alt text here")
+<img src="img/concept-measurement-data2.0.png" alt="Alt Text" width="700" height="300">
 
-- If data is the representation, what are the first two boxes we need to idenitfy?
+- If data is the representation, what could the first two boxes be?
 
 ::: notes
-Data is a representation of something in the world, that has been captured in a specific way
-Through this course we will use the terms, Concept, Measure and Data
+
 :::
 
 ## Data as a research object
 
-![](img/concept-measurement-data.png "Alt text here")
+Through this course we will use the terms: Concept, Measure and Data
+
+<img src="img/concept-measurement-data.png" alt="Alt Text" width="700" height="300">
+
+---
 
 ## Weather data 
 
-- Going back to the weather data we look at at the start of the course, fill in the research data flow with some weather data examples
+- Going back to the weather data we look at at the start of the course, fill in the research data flow:
 
-- 
+<img src="img/c-m-d-blank.png" alt="Alt Text" width="700" height="300">
+
+---
+
+## Weather data 
+
+(answer)
+
+- You may have got the same 
+- Depending on the focus of your research, the Concept, Measure and Data could be different
+  
+---
+
+## Data as a research object
+
+
+---
+
+## Practice
+
+Congratulations! You're the newest member of a research group ...
+
+
+---
+
+## Application
+
+Fill out the Concept, Measure, Data boxes for your dataset.
+You may be 
+
+---
+
+## Test your knowledge
+
+---
+
+## Test your knowlesge (answers)
