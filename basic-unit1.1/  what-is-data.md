@@ -10,19 +10,17 @@ date: March 20, 2025
 ---
 
 ## Outline [#trainer]
-- Data is everywhere: weather app example
+- What is data?
 - Definition of data
-- Collecting data about drinks
 - Data in research
 - Introduction to example cast study
 
 ---
 
 ## What is data?
-What do we mean by the term data?
+We use the term data all the time, but what do we actually mean?
 
 ---
-
 ## Data is everywhere ...
 
 *Screenshot of weather app*
@@ -31,20 +29,91 @@ What data is available when we check the weather?
 
 ---
 
-## Weather data available...
+## Weather data ...
 
-- Temperature
-- Geography
-- Time
-- Conditions
+*Screenshot of weather app - circle data points*
+
+- 'London'
+- 10*
+- 'Sunny conditions will continue all day. Wind gusts up to 12mph.'
+- 'Time'
 
 ---
 
 ## What makes these data?
 
+- Data can be:
+  
+  - Numbers
+  - Text
+  - Symbols
+
+But what are the characteristics of data that differentiates from them being *just* numbers, words and symbols?
+
+::: notes
+Ask the participants to take 5 minutes to discuss and come up with some thoughts
+Collect responses from participants
+:::
+
+---
+## Characteristics of data
+
+We thought of:
+
+- Has a label e.g. column name
+- Has an identifier (person or organisation)
+- Can be other things like text
+- Could have a domension (weight, height, colour)
+- Is consistent in the data type used, all numbers, all text
 
 ---
 
-## What is data?
+## Data Definition [#Overview]
 
+**Wikipedia**
 
+Data is a collection of discrete or continuous *values* that convey *information* describing the *quantity, quality, fact, statistics*, or other basic units of meaning, or sequences of *symbols* that may be further interpreted *formally*
+
+---
+
+## Back to weather ...
+
+- 10* --> Temperature
+- London --> Geography
+- Time -->
+- Conditions
+
+---
+
+## Data in research [#Overview]
+
+Data in research has a specific purpose:
+
+  Data that are used as primary sources to support technical or scientific enquiry, research, scholarship, or  artistic activity, and that are used as evidence in the research process and/or are commonly accepted in the research community as necessary to validate research findings and results. 
+
+-- CODATA, https://codata.org/rdm-![image](https://github.com/user-attachments/assets/46421b96-76d1-4d7d-a56c-cf3d6639ffff)
+
+---
+
+## Data as a research object
+
+- Data is a representation of something in the world, that has been captured in a specific way
+
+![](img/concept-measurement-data2.0.png "Alt text here")
+
+- If data is the representation, what are the first two boxes we need to idenitfy?
+
+::: notes
+Data is a representation of something in the world, that has been captured in a specific way
+Through this course we will use the terms, Concept, Measure and Data
+:::
+
+## Data as a research object
+
+![](img/concept-measurement-data.png "Alt text here")
+
+## Weather data 
+
+- Going back to the weather data we look at at the start of the course, fill in the research data flow with some weather data examples
+
+- 
