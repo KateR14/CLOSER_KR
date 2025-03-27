@@ -23,6 +23,8 @@ We use the term data all the time, but what do we actually mean?
 ---
 ## Data is everywhere ...
 
+We consume data all the time. Take weather for example:
+
 *Screenshot of weather app*
 
 What data is available when we check the weather?
@@ -50,7 +52,7 @@ What data is available when we check the weather?
 
 But what are the characteristics of data that differentiates from them being *just* numbers, words and symbols?
 
-::: notes
+::: notes [#Trainer]
 Ask the participants to take 5 minutes to discuss and come up with some thoughts
 Collect responses from participants
 :::
