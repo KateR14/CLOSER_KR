@@ -135,7 +135,12 @@ Through this course we will use the terms: Concept, Measure and Data
 
 Here is another example:
 
-
+.one-third-right[
+<img src="img/concept-measurement-data2.png" alt="Alt Text" width="350" height="150"> 
+]
+.one-third-left[
+<img src="img/concept-measurement-data-explained.png" alt="Alt Text" width="350" height="150">
+]
 ---
 
 ## Practice
