@@ -70,10 +70,18 @@ Sam1 Video
 
 ## How to implement good Data Management 
 
-- Develop a robust Data Management Plan at the begining of your research project
+- Develop a robust Data Management Plan (DMP) at the begining of your research project. A DMP should consider:
+  - Conside
+
 - Enact FAIR data principles 
 - Create metadata that adheres to relevant standards
 
+---
+
+## Application: How strong is your data management?
+
+- Can you answer the following questions about your research?
+  
 ----
 
 ## Data Management Tools and Resources
@@ -85,7 +93,7 @@ Sam1 Video
   - DataOne: Data Management Module
   - Research Data Oxford: Data Management Plans Overview
     
-- Use these tools
+- Use these tools to help develop a robust Data Management Plan:
   - DMPonline: provided by the Digital Curation Centre (DCC), DMPonline facilitates the creation, review, and sharing of data management plans. The online, open resource contains DMP templates and public DMPs for reference.
   - DMP Tool: this online, open resources contains public DMPs for reference as well as a list of funder requirements to ensure DMPs meet the criteria of the funding body.
   
