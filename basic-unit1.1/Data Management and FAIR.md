@@ -6,9 +6,10 @@ date: March 30, 2025
 
 ## Intended Learning Outcome
 
+- Understand data management 
 - Define the FAIR principles
-- Explain why the FAIR principles are important
-- Illustrate how you can help implement the FAIR principles 
+- Understand the importance of FAIR in research
+- Understand how to implement FAIR principles 
 
 ---
 
@@ -26,15 +27,15 @@ date: March 30, 2025
 
 ---
 
-## Bad Data Management 
+## Bad data management 
 
 Sam1 Video
 
 ---
 
-## Data Management challenges (Discussion)
+## Bad data management (Discussion)
 
-- What are some of the problems that come from bad data management that is explored in the SAM1 Video
+- Reflecting on the video you've just watched as well as your own experience, what are some of the reasons people struggle to access research data?
 
 - Cannot find the data from a publication
 - Broken links
@@ -47,11 +48,36 @@ Sam1 Video
 
 ---
 
+## What is the impact of bad Data Management?
+
+- Research data is in a silo
+  - Data is not easily compared
+  - Research could be unnecessarily replicated
+  - Research cannot be built on by future research
+
+---
+
 ## How to implement good Data Management 
 
-- Link to DMP resources
-- FAIR
+- Develop a robust Data Management Plan at the begining of your research project
+- Enact FAIR data principles 
+- Create metadata that adheres to relevant standards
 
+----
+
+## Data Management Tools and Resources
+
+- Develop your knowledge of Data Management using these resources:
+  - DataTree: Data Management (Context) and Data Management (Practicalities) modules
+  - MANTRA Data Management Training
+  - Queen Mary's Research Data Management Training
+  - DataOne: Data Management Module
+  - Research Data Oxford: Data Management Plans Overview
+    
+- Use these tools
+  - DMPonline: provided by the Digital Curation Centre (DCC), DMPonline facilitates the creation, review, and sharing of data management plans. The online, open resource contains DMP templates and public DMPs for reference.
+  - DMP Tool: this online, open resources contains public DMPs for reference as well as a list of funder requirements to ensure DMPs meet the criteria of the funding body.
+  
 ---
 
 ## What is FAIR?
