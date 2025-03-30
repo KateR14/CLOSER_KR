@@ -46,6 +46,9 @@ What data is available when we check the weather?
   - Numbers e.g. 16*
   - Text e.g. 'Sunny conditions will continue all day. Wind gusts up to 12mph.'
   - Symbols e.g. ☀️
+ 
+- Data can also be ...
+ - xxx
 
 But what are the characteristics of data that differentiates from them being *just* numbers, words and symbols?
 
