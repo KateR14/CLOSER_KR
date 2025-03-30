@@ -6,10 +6,21 @@ date: March 30, 2025
 
 ## Intended Learning Outcome
 
-- Understand data management 
+- Understand the importance of Data Management
+- Have an overview of Data Management Plans
 - Define the FAIR principles
 - Understand the importance of FAIR in research
 - Understand how to implement FAIR principles 
+
+---
+
+## Outline [#trainer]
+- What is Data management? (Discussion and definition)
+- Why is Data mMnagement important?
+- What is the impact of bad Data Management?
+- Overview of Data Management Plans
+- Introduction to FAIR principles and how to implement them
+- The importance of FAIR principles
 
 ---
 
