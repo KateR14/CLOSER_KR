@@ -5,7 +5,8 @@ date: March 20, 2025
 ---
 
 ## Intended Learning Outcome
-- Have a firm understadning of what data is and it's purpose in research
+- Understand the characteristics of data
+- Understand the purpose of data in research
 
 ---
 
@@ -123,14 +124,16 @@ Through this course we will use the terms: Concept, Measure and Data
 
 ## Weather data 
 
-(answer)
+(Image) Temperature of London -> Degrees -> -10 ... 45
 
-- You may have got the same 
-- Depending on the focus of your research, the Concept, Measure and Data could be different
+- You may have got the same or you might have looked at wind gusts or percipitation.
+- Depending on the focus of your research, the Concept, Measure and Data will be different.
   
 ---
 
 ## Data as a research object
+
+Here is another example:
 
 
 ---
@@ -145,7 +148,6 @@ Congratulations! You're the newest member of a research group ...
 ## Application
 
 Fill out the Concept, Measure, Data boxes for your dataset.
-You may be 
 
 ---
 
