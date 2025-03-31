@@ -221,6 +221,18 @@ provide:
 
 ---
 
+## FAIR Data Assessment List
+
+- (F) Does you dataset have a persistent identified e.g. a PID or DOI?
+- (F+I) Does your data have metadata that adheres to relevant schemas and standards?
+- (F) Is your data in a trusted repository?
+- (A+R) Does your data have an assigned license and data sharing policy? (please note, your data does not need to be open to be FAIR)
+- (F+A) Does your dataset have a README file?
+  - Does your README file explain how one could access the data?
+  - Does your README file explain the necessary software required to access the file?
+
+---
+
 ## Summary
 
 - **F**indable, **A**ccessible, **I**nteroperable, **R**e-usable
