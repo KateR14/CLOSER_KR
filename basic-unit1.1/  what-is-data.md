@@ -24,11 +24,10 @@ We use the term data all the time, but what do we actually mean?
 ---
 ## Data is everywhere ...
 
-We consume data all the time. Take your weather app for example:
+We consume data all the time. Take your weather app for example.
+What data is available when we check the weather?
 
 <img src="img/Ldn-apple-weather.jpeg" alt="Alt Text" width="425" height="900">
-
-What data is available when we check the weather?
 
 ---
 
@@ -41,16 +40,13 @@ What data is available when we check the weather?
 
 ## What makes these data?
 
-- Data can be:
+- What are the data types we observed in the weather app:
   
-  - Numbers e.g. 16*
-  - Text e.g. 'Sunny conditions will continue all day. Wind gusts up to 12mph.'
+  - Numbers (quantitative) e.g. 16*
+  - Text (qualitative) e.g. 'Sunny conditions will continue all day.' [comment]: is this a confusing example for qualitative data?
   - Symbols e.g. ☀️
- 
-- Data can also be ...
-    - *Should we include nominal, ordinal, discrete and continous?*
 
-But what are the characteristics of data that differentiates from them being *just* numbers, words and symbols?
+Data can come in lots of different formats but what are the characteristics of data that differentiates from them being *just* numbers, words and symbols?
 
 ::: notes [#Trainer]
 Ask the participants to take 5 minutes to discuss and come up with some thoughts
@@ -65,20 +61,27 @@ What are the core characteristics of data?
 We thought of:
 
 - Has a label: the data has to relate to a concept of inquiry
-  - e.g. 16* --> temperature, London --> geography, 14:00 --> time
-- Has an identifier: a person or an organiisation has to observe or measure the data
+  - e.g. 16* &rarr; temperature, London &rarr; geography, 14:00 &rarr; time
+- Has an identifier: a person or an organiisation has to observe, collect or measure the data
   - e.g. a meteorologist 
-- Is consistent in the data type used, all numbers, all text
+- The data type is consistent within a single inquiry: e.g. all numbers, all text, all symbols
 
+---
+
+## Data types
+
+- Data can also be ...
+    - *Should we include nominal, ordinal, discrete and continous?*
+ 
 ---
 
 ## Data Definition [#Overview]
 
 Data has different definitions in different contexts and disciplines.
 
-What does Wikipedia tell us data is?
+What does Wikipedia tell us?
 
-"Data is a collection of discrete or continuous *values* that convey *information* describing the *quantity, quality, fact, statistics*, or other basic units of meaning, or sequences of *symbols* that may be further interpreted *formally*"
+- "Data is a collection of discrete or continuous *values* that convey *information* describing the *quantity, quality, fact, statistics*, or other basic units of meaning, or sequences of *symbols* that may be further interpreted *formally*"
 
 ---
 
@@ -241,17 +244,20 @@ flowchart BT
 ## Practice [#worksheet]
 
 Congratulations! You’re the newest member of a longitudinal research team at University College London.
+
 The research is funded by UK Department for Young people and the Economic and Social Research Council. The research is looking into the impacts of social media on young people in Onglond.
-They have already completed two Waves, collecting data from 437 participants aged 11-16 year olds. through questionnaires WAVE 1 was completed in 2021 and WAVE in 2023. There 
-You will conduct the next wave of research in two months time. For this wave, you have to design and deliver a questionnaire.
+
+They have already completed two Waves, collecting data from 437 participants aged 11-16 year olds through questionnaires. WAVE 1 was completed in 2021 and WAVE in 2023. 
+
+You will conduct the next wave of research in two months time. 
 
 ---
 
-## Practice [Worksheet]
+## Practice (question) [Worksheet]
 
-In the questionnaire, you will need to find out how long the pariticipant spends on social media a day.
+As part of this research, you will need to find out how long each pariticipant spend on social media  platforms a day.
 
-Fill out the Concept, Measure and Data boxes for this research query.
+Fill out the Concept, Measure and Data boxes that might be needed to conduct this inquiry.
 
 ``` mermaid
 
@@ -266,6 +272,40 @@ flowchart LR
 flowchart LR
     B1(            ) --> B2(             )
     B2 --> B3(             )
+
+```
+
+---
+
+
+## Practice (answer) [#Worksheet]
+
+One answer could be:
+
+``` mermaid
+
+flowchart LR
+    tsosm(Time Spent on Social Media) --> min(Minutes)
+    hr --> d(0...1440)
+
+```
+Before that, you might want to ask if they are on social media ...
+
+``` mermaid
+
+flowchart LR
+    osm(Active on Social Media) --> tf(True/False)
+    tf --> d(Y/N)
+
+```
+
+Or what social media platforms they are on ...
+
+``` mermaid
+
+flowchart LR
+    smp(Live Accounts on Social Media Platforms) --> Q(*What would this be*)
+    Q --> Q2(What would this be)
 
 ```
 
