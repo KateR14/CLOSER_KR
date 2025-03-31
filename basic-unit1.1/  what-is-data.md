@@ -60,19 +60,11 @@ What are the core characteristics of data?
 
 We thought of:
 
-- Has a label: the data has to relate to a concept of inquiry
+- Has a label: data relates to a concept of inquiry
   - e.g. 16* &rarr; temperature, London &rarr; geography, 14:00 &rarr; time
 - Has an identifier: a person or an organiisation has to observe, collect or measure the data
-  - e.g. a meteorologist 
+  - e.g. a meteorologist, Met Office
 - The data type is consistent within a single inquiry: e.g. all numbers, all text, all symbols
-
----
-
-## Data types
-
-- Data can be ...
-    - Qualitative / Quantitative 
-    - *Should we include nominal, ordinal, discrete and continous?*
  
 ---
 
@@ -84,6 +76,13 @@ What does Wikipedia tell us?
 
 - "Data is a collection of discrete or continuous *values* that convey *information* describing the *quantity, quality, fact, statistics*, or other basic units of meaning, or sequences of *symbols* that may be further interpreted *formally*"
 
+---
+
+## Data types -- Expand this
+
+- Data can be ...
+    - Qualitative / Quantitative 
+    - *Should we include nominal, ordinal, discrete and continous?*
 ---
 
 ## Data in research [#Overview]
@@ -123,7 +122,7 @@ CODATA, https://codata.org/rdm-![image](https://github.com/user-attachments/asse
 
 :::
 
-## Data as a research object
+## Data as a research object [#Overview]
 
 Through this course, we will use the terms: Concept, Measure and Data
 
@@ -189,13 +188,6 @@ flowchart LR
 
 Here is another example:
 
-``` mermaid
-
-flowchart LR
-    aop(Age of person) --> Ye(Years)
-    Ye --> yd(0...115)
-
-```
 
 ``` mermaid
 
@@ -278,10 +270,10 @@ One answer could be:
 
 flowchart LR
     tsosm(Time Spent on Social Media) --> min(Minutes)
-    hr --> d(0...1440)
+    min --> d(0...1440)
 
 ```
-Before that, you might want to ask if they are on social media ...
+Before that, you might want to ask *if* they are on social media ...
 
 ``` mermaid
 
@@ -291,19 +283,22 @@ flowchart LR
 
 ```
 
-Or what social media platforms they are on ...
+and if so, what social media platforms are they on ...
 
 ``` mermaid
 
 flowchart LR
-    smp(Live Accounts on Social Media Platforms) --> Q(*What would this be*)
+    smp(Live accounts
+    on social media platforms)
+    Q(*What would this be*)
+    smp --> Q
     Q --> Q2(*What would this be?*)
 
 ```
 
 ---
 
-## Application
+## Application [#Worksheet]
 
 Fill out the Concept, Measure, Data boxes for your dataset.
 
