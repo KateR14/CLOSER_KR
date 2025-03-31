@@ -27,14 +27,28 @@ date: March 30, 2025
 ## What is data management?
 
 - Discussion
+
 - Data management definition
+  - "Research data management (RDM) is about handling research data effectively and appropriately throughout the life of a research project and beyond. Research data management refers to all aspects of creating, storing, sharing and archiving data and is an essential aspect of conducting responsible research" MANTRA
 
 ::: notes
+MANTRA - https://mantra.ed.ac.uk/datamanagementplanning/
 :::
 
 ---
 
 ## Why is data management important?
+
+- Improves efficiency of your research
+- Saves time by establishing robust documentation, stoarge and preservation processes
+- Reduces the risk of losing data and enhances lifespan of data
+- Required to obtain funding and/or meet funding bodies' requirements
+- Enables other researchers to use your research, encouraging cross-study research and reducing the potential for research duplication
+- Improves accuracy and security of your data
+
+::: notes
+MANTRA - https://mantra.ed.ac.uk/datamanagementplanning/
+:::
 
 ---
 
@@ -62,9 +76,12 @@ Sam1 Video
 ## What is the impact of bad Data Management?
 
 - Research data is in a silo
-  - Data is not easily compared
-  - Research could be unnecessarily replicated
+  - Data cannot be re-used by other researchers or by yourself in future studies
+  - Research could be unnecessarily duplicated
   - Research cannot be built on by future research
+- Could jeopardise future research funding
+- Data could be less secure
+- Time wasted trying to understand data or organise data retrospectively
 
 ---
 
@@ -81,6 +98,8 @@ Sam1 Video
 ## Application: How strong is your data management?
 
 - Can you answer the following questions about your research?
+
+- Data management plan checklist https://www.dcc.ac.uk/sites/default/files/documents/resource/DMP_Checklist_2013.pdf
   
 ----
 
@@ -101,7 +120,7 @@ Sam1 Video
 
 ## What is FAIR?
 
-** Video link here **
+[FAIR Data Video](https://www.youtube.com/results?search_query=what+is+research+data)
 
 ---
 
@@ -116,33 +135,42 @@ Sam1 Video
 
 ## **F**indable
 
-**Findable**: Meta(data) should be easy to find for both humans and computers 
+**Findable**: oVERVIEW
 
-- meta(data) platforms for easier discovery
-- use of persistent identifiers e.g. DOIs
-
+- What you can do:
+  - Link your publications/data to your ORCID ID [13]
+  - Cite the data that you have used using a DOI
+  - Deposit your data in an trusted repository/archive
+     - Find an appropriate archive e.g. UKDS or your university
+  
 ---
 
 ## **A**ccessible
 
-**Accessible**: Users need to know how the data can be accessed
+**Accessible**: OVERVIEW
 
-- what the access process is
+- What you can do:
+  - use standardised technology and available software
+  - Provide your data to repositories in their preferred format 
 
 ---
 
 ## **I**nteroperable
 
-**Interoperable**: Data can be integrated with other data and work with applications or workflows for analysis, storage, and processing
+**Interoperable**: OVERVIEW
 
-- standardised technology and available software
-- computers can understand what the data is
+  - What you can do:
+      - Create rich metadata that adheres to the relevant standards
+      - Use existing vocabularies, classifications, ontologies etc. when possible  
+        - e.g. Controlled Vocabularies for mode of collection [11]
+        - e.g. Survey responses Office for National statistics ethnic group classification [12]
+      
 
 ---
 
 ## **R**e-usable
 
-**Re-usable**: Meta(data) should be well-described so that they can be replicated and/or combined
+**Re-usable**: OVERVIEW
 
 - metadata to provide context 
 - use of standardised terms
@@ -211,13 +239,7 @@ provide:
 
 ## Your potential responsibilities (3)
 
-- Deposit your data in an archive
-  - If you need to deposit your data, find an appropriate archive e.g. UKDS or your university
-  - Provide the data in their preferred format 
-  - Seek advice to anticipate what metadata to provide
-- Link and cite
-  - Link your publications/data to your ORCID ID [13]
-  - Cite the data that you have used using a DOI
+
 
 ---
 
