@@ -48,7 +48,7 @@ What data is available when we check the weather?
   - Symbols e.g. ☀️
  
 - Data can also be ...
- - xxx
+    - *Should we include nominal, ordinal, discrete and continous?*
 
 But what are the characteristics of data that differentiates from them being *just* numbers, words and symbols?
 
