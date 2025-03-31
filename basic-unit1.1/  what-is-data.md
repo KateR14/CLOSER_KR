@@ -72,15 +72,17 @@ We thought of:
 
 ## Data Definition [#Overview]
 
-**Wikipedia**
+Data has different definitions in different contexts and disciplines.
 
-Data is a collection of discrete or continuous *values* that convey *information* describing the *quantity, quality, fact, statistics*, or other basic units of meaning, or sequences of *symbols* that may be further interpreted *formally*
+What does Wikipedia tell us data is?
+
+"Data is a collection of discrete or continuous *values* that convey *information* describing the *quantity, quality, fact, statistics*, or other basic units of meaning, or sequences of *symbols* that may be further interpreted *formally*"
 
 ---
 
 ## Data in research [#Overview]
 
-Data in research has a specific purpose:
+Data in research has a specific meaning and purpose:
 
 - Data that are used as primary sources to support technical or scientific enquiry, research, scholarship, or  artistic activity, and that are used as evidence in the research process and/or are commonly accepted in the research community as necessary to validate research findings and results. 
 
@@ -117,7 +119,7 @@ CODATA, https://codata.org/rdm-![image](https://github.com/user-attachments/asse
 
 ## Data as a research object
 
-Through this course we will use the terms: Concept, Measure and Data
+Through this course, we will use the terms: Concept, Measure and Data
 
   ``` mermaid
 
@@ -234,7 +236,7 @@ flowchart BT
 ]
 ---
 
-## Practice
+## Practice [#worksheet]
 
 Congratulations! You’re the newest member of a longitudinal research team at University College London.
 The research is funded by UK Department for Young people and the Economic and Social Research Council. The research is looking into the impacts of social media on young people in Onglond.
@@ -243,17 +245,53 @@ You will conduct the next wave of research in two months time. For this wave, yo
 
 ---
 
-## Practice
+## Practice [Worksheet]
 
 In the questionnaire, you will need to find out how long the pariticipant spends on social media a day.
 
 Fill out the Concept, Measure and Data boxes for this research query.
+
+``` mermaid
+
+flowchart LR
+    C(Concept) --> Me(Measure)
+    Me --> Rep(Has a representation)
+
+```
+
+``` mermaid
+
+flowchart LR
+    B1(            ) --> B2(             )
+    B2 --> B3(             )
 
 ---
 
 ## Application
 
 Fill out the Concept, Measure, Data boxes for your dataset.
+
+``` mermaid
+
+flowchart LR
+    C(Concept) --> Me(Measure)
+    Me --> Rep(Has a representation)
+
+```
+
+``` mermaid
+
+flowchart LR
+    B1(            ) --> B2(             )
+    B2 --> B3(             )
+
+---
+
+## Further learning [#Overview]
+
+Explore these trainings modules to develop your knowledge of Research Data:
+- Mantra: Research Data in Context https://mantra.ed.ac.uk/researchdataincontext/
+- Queen Mary's: Research Data Management: Research Data explained (access as a guest) https://qmplus.qmul.ac.uk/mod/scorm/view.php?id=414426
 
 ---
 
