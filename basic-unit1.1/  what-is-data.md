@@ -60,12 +60,14 @@ Collect responses from participants
 ---
 ## Characteristics of data
 
+What are the core characteristics of data? 
+
 We thought of:
 
-- Has a label e.g. column name
-- Has an identifier (person or organisation)
-- Can be other things like text
-- Could have a domension (weight, height, colour)
+- Has a label: the data has to relate to a concept of inquiry
+  - e.g. 16* --> temperature, London --> geography, 14:00 --> time
+- Has an identifier: a person or an organiisation has to observe or measure the data
+  - e.g. a meteorologist 
 - Is consistent in the data type used, all numbers, all text
 
 ---
@@ -171,7 +173,7 @@ flowchart LR
 ``` mermaid
 
 flowchart LR
-    wgh(Wind gusts London) --> mph(Miles per hour)
+    wgh(Wind gusts in London) --> mph(Miles per hour)
     mph --> mphd("0...100")
 
 ```
