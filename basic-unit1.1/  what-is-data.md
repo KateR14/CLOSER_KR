@@ -40,10 +40,10 @@ What data is available when we check the weather?
 
 ## What makes these data?
 
-- What are the data types we observed in the weather app:
+- Data can be represented as:
   
-  - Numbers (quantitative) e.g. 16*
-  - Text (qualitative) e.g. 'Sunny conditions will continue all day.' [comment]: is this a confusing example for qualitative data?
+  - Numbers e.g. 16*
+  - Text e.g. 'Sunny conditions will continue all day.'
   - Symbols e.g. ☀️
 
 Data can come in lots of different formats but what are the characteristics of data that differentiates from them being *just* numbers, words and symbols?
@@ -70,7 +70,8 @@ We thought of:
 
 ## Data types
 
-- Data can also be ...
+- Data can be ...
+    - Qualitative / Quantitative 
     - *Should we include nominal, ordinal, discrete and continous?*
  
 ---
@@ -176,7 +177,7 @@ flowchart LR
 ``` mermaid
 
 flowchart LR
-    wgh(Wind gusts in London) --> mph(Miles per hour)
+    wgl(Wind gusts in London) --> mph(Miles per hour)
     mph --> mphd("0...100")
 
 ```
@@ -203,16 +204,6 @@ flowchart LR
     Ye --> yd(0...115)
 
 ```
-``` mermaid
-
-flowchart LR
-  subgraph Research Data flow
-    direction LR
-    C(Concept) --> Me(Measure)
-    Me --> d(Data)
-  end
-
-```
 
 ``` mermaid
 
@@ -220,15 +211,16 @@ flowchart BT
     aop(Age of person) --> C(Concept)
     Q(Question) --> Me(Measure)
     V(Variable) --> d(data)
-    subgraph Questionnaire
-      Qd(What is your age)
-    end
-    subgraph Dataset
-      dp(Age)
-    end
-  direction BT
-  Qd --> Q
-  dp --> V
+    direction BT
+    Qd --> Q
+    dp --> V
+      subgraph Questionnaire
+        Qd(What is your age)
+      end
+      subgraph Dataset
+        dp(Age)
+      end
+    
 
 ```
 
@@ -305,7 +297,7 @@ Or what social media platforms they are on ...
 
 flowchart LR
     smp(Live Accounts on Social Media Platforms) --> Q(*What would this be*)
-    Q --> Q2(What would this be)
+    Q --> Q2(*What would this be?*)
 
 ```
 
