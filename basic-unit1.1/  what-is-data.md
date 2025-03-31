@@ -34,7 +34,7 @@ What data is available when we check the weather?
 
 ## Weather data ...
 
-*Screenshot of weather app - circle data points*
+<img src="img/weatherdatacircled.png" alt="Alt Text" width="425" height="900"> 
 
 
 ---
