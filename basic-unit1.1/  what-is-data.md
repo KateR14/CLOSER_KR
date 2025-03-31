@@ -265,6 +265,8 @@ flowchart LR
     B1(            ) --> B2(             )
     B2 --> B3(             )
 
+```
+
 ---
 
 ## Application
@@ -284,6 +286,8 @@ flowchart LR
 flowchart LR
     B1(            ) --> B2(             )
     B2 --> B3(             )
+
+```
 
 ---
 
