@@ -236,8 +236,18 @@ flowchart BT
 
 ## Practice
 
-Congratulations! You're the newest member of a research group ...
+Congratulations! You’re the newest member of a longitudinal research team at University College London.
+The research is funded by UK Department for Young people and the Economic and Social Research Council. The research is looking into the impacts of social media on young people in Onglond.
+They have already completed two Waves, collecting data from 437 participants aged 11-16 year olds. through questionnaires WAVE 1 was completed in 2021 and WAVE in 2023. There 
+You will conduct the next wave of research in two months time. For this wave, you have to design and deliver a questionnaire.
 
+---
+
+## Practice
+
+In the questionnaire, you will need to find out how long the pariticipant spends on social media a day.
+
+Fill out the Concept, Measure and Data boxes for this research query.
 
 ---
 
