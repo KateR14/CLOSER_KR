@@ -32,7 +32,7 @@ date: March 30, 2025
   - "Research data management (RDM) is about handling research data effectively and appropriately throughout the life of a research project and beyond. Research data management refers to all aspects of creating, storing, sharing and archiving data and is an essential aspect of conducting responsible research" MANTRA
 
 ::: notes
-MANTRA - https://mantra.ed.ac.uk/datamanagementplanning/
+[MANTRA](https://mantra.ed.ac.uk/datamanagementplanning/)
 :::
 
 ---
@@ -46,32 +46,43 @@ What happens if you don't manage your data well ...
 
 ## Bad data management (Discussion)
 
-- Reflecting on the video you've just watched as well as your own experience, what are some of the reasons people struggle to access research data?
+- Reflecting on the video you've just watched as well as your own experience, what are some examples of bad data management?
 
-- Cannot find the data from a publication
-- Broken links
+- Data is not properly cited or linked in publications
+- Links to research are broken 
 - Limited information about the data
 - Data in unusable or proprietary software
-- Multiple places to look 
-- Need to request access before can view the data
+- No information about the data sharing policy or
 - Unclear data access process, how long it takes, cost etc.
 - Limited context to understand the data
 
 ---
 
-## What is the impact of bad Data Management?
+## What is the impact of bad data management?
+
+- Again, refelcting on the video and your own experience, what are the impacts of bad data management on research?
 
 - Research data is in a silo
   - Data cannot be re-used by other researchers or by yourself in future studies
   - Research could be unnecessarily duplicated
-  - Research cannot be built on by future research
+  - Secondary research or cross-study research cannot happy
 - Could jeopardise future research funding
 - Data could be less secure
 - Time wasted trying to understand data or organise data retrospectively
 
 ---
 
-## Why is data management important?
+## How to implement good data management 
+
+- Develop a robust Data Management Plan (DMP) at the begining of your research project. A DMP should consider:
+  - Conside
+
+- Enact FAIR data principles 
+- Create metadata that adheres to relevant standards
+
+---
+
+## Benefits of good data management
 
 - Improves efficiency of your research
 - Saves time by establishing robust documentation, stoarge and preservation processes
@@ -87,25 +98,22 @@ MANTRA - https://mantra.ed.ac.uk/datamanagementplanning/
 
 ---
 
-## How to implement good Data Management 
+## *EXAMPLE NEEDED* - Case study of good data management
 
-- Develop a robust Data Management Plan (DMP) at the begining of your research project. A DMP should consider:
-  - Conside
-
-- Enact FAIR data principles 
-- Create metadata that adheres to relevant standards
+- E.g. show a study which has good data documentation / management with a strong DMP
+-  Pick a study whose findings have had an impact on policy/industry as well as been the subject of secondary research and/or cross study research
 
 ---
 
-## Application: How strong is your data management?
+## Application: How strong is your data management? [#Worksheet]
 
 - Can you answer the following questions about your research?
 
-- Data management plan checklist https://www.dcc.ac.uk/sites/default/files/documents/resource/DMP_Checklist_2013.pdf
+- [Data management plan checklist](https://www.dcc.ac.uk/sites/default/files/documents/resource/DMP_Checklist_2013.pdf)
   
 ----
 
-## Data Management Tools and Resources
+## Data Management Tools and Resources [#Overview]
 
 - Develop your knowledge of Data Management using these resources:
   - DataTree: Data Management (Context) and Data Management (Practicalities) modules
@@ -113,10 +121,14 @@ MANTRA - https://mantra.ed.ac.uk/datamanagementplanning/
   - Queen Mary's Research Data Management Training
   - DataOne: Data Management Module
   - Research Data Oxford: Data Management Plans Overview
+ 
+- Assess the quality of data currently:
+  - [QAMyData](https://ukdataservice.ac.uk/about/research-and-development/past-projects/qamydata/)
     
 - Use these tools to help develop a robust Data Management Plan:
-  - DMPonline: provided by the Digital Curation Centre (DCC), DMPonline facilitates the creation, review, and sharing of data management plans. The online, open resource contains DMP templates and public DMPs for reference.
-  - DMP Tool: this online, open resources contains public DMPs for reference as well as a list of funder requirements to ensure DMPs meet the criteria of the funding body.
+  - [DMPonline](https://dmponline.dcc.ac.uk/): provided by the Digital Curation Centre (DCC), DMPonline facilitates the creation, review, and sharing of data management plans. The online, open resource contains DMP templates and public DMPs for reference.
+  - [DMP Tool](https://dmptool.org/plans): this online, open resources contains public DMPs for reference as well as a list of funder requirements to ensure DMPs meet the criteria of the funding body.
+  - [Data Management Costing Tool](https://ukdataservice.ac.uk/app/uploads/costingtool.pdf]
   
 ---
 
@@ -134,7 +146,9 @@ MANTRA - https://mantra.ed.ac.uk/datamanagementplanning/
 - **R**e-usable
 
 ::: notes
-https://www.go-fair.org/fair-principles/
+[Go FAIR Principles](https://www.go-fair.org/fair-principles/)
+[Open University FAIR](https://university.open.ac.uk/library-research-support/research-data-management/fair-principles)
+[FAIRAire](https://www.openaire.eu/how-to-make-your-data-fair)
 
 :::
 ---
@@ -181,9 +195,9 @@ https://www.go-fair.org/fair-principles/
 - **Create rich metadata** to provide context 
 - use of standardised terms
   
+---
 
-
-## The importance for FAIR for data
+## Benefits of FAIR for your data
 
 - Maximises the value and usefulness of your data
 - Ensures long-term preservation of your data
@@ -193,7 +207,7 @@ https://www.go-fair.org/fair-principles/
 
 ---
 
-## The importance of FAIR important for researchers
+## The importance of FAIR important for research
 
 - Helps demonstrate the impact of research when people re-use and cite your dataset, so you get credit for all your outputs
 - Easier for others to find your data and increases your visibility
@@ -234,6 +248,13 @@ Using the FAIR Data Assessment list
   - Does your README file explain the necessary software required to access the file?
 - (F+A+I+R) Does your data have metadata that adheres to relevant schemas and standards?
 
+::: notes 
+[FAIRAire](https://www.openaire.eu/how-to-make-your-data-fair) -- has checklist
+Jones, S. & Grootveld, M. (2017, November). How FAIR are your data? Zenodo. http://doi.org/10.5281/zenodo.1065991
+
+[DANS FAIR Assessment tool](https://fairaware.dans.knaw.nl/) --> 10 questions that will take 10-30 mins
+
+:::
 ---
 
 ## Summary
