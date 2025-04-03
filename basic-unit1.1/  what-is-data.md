@@ -171,7 +171,7 @@ flowchart LR
     de --> td("-20...45")
 
 ```
-- You may have got the same or you might have looked at wind gusts or percipitation. For example:
+- You may have got the same or you might have looked at wind gusts or chance of rain. For example:
 
 ``` mermaid
 
@@ -180,6 +180,15 @@ flowchart LR
     mph --> mphd("0...100")
 
 ```
+
+``` mermaid
+
+flowchart LR
+    cor(Chance of rain in London) --> prc(Percent)
+    prc --> prcd("0...100")
+
+```
+
 - Depending on the focus of your research, the Concept, Measure and Data will be different.
   
 ---
