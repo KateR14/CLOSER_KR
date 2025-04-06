@@ -15,27 +15,34 @@ date: March 30, 2025
 ---
 
 ## Outline [#trainer]
-- What is Data management? (Discussion and definition)
-- Why is Data mMnagement important?
-- What is the impact of bad Data Management?
-- Overview of Data Management Plans
+- What is data management? (Discussion and definition)
+- Why is data management important?
+- What is the impact of bad data management?
+- Overview of Data Management Plans (DMP)
 - Introduction to FAIR principles and how to implement them
-- The importance of FAIR principles
+- Importance and benefits of FAIR data
 
 ---
 
-## What is data management?
+## What is data management? [#Discussion]
 
-- Discussion
-
-- Data management definition
-  - "Research data management (RDM) is about handling research data effectively and appropriately throughout the life of a research project and beyond. Research data management refers to all aspects of creating, storing, sharing and archiving data and is an essential aspect of conducting responsible research" MANTRA
+- Know we have covered what research data is, we can now look into what we do with it and how.
+- What do we mean by data management?
 
 ::: notes
-[MANTRA](https://mantra.ed.ac.uk/datamanagementplanning/)
+Trainer: give 5-10 minutes for people to discuss what data management is before revealing the definition. Invite people to share their ideas with the group.
 :::
 
 ---
+
+## Data management definition [#overview]
+
+  - "Research data management (RDM) is about handling research data effectively and appropriately throughout the life of a research project and beyond. Research data management refers to all aspects of creating, storing, sharing and archiving data and is an essential aspect of conducting responsible research" -- MANTRA
+
+::: notes
+ [MANTRA](https://mantra.ed.ac.uk/datamanagementplanning/)
+:::
+  
 ## Bad data management 
 
 What happens if you don't manage your data well ...
@@ -47,6 +54,10 @@ What happens if you don't manage your data well ...
 ## Bad data management (Discussion)
 
 - Reflecting on the video you've just watched as well as your own experience, what are some examples of bad data management?
+
+---
+
+## Examples of bad data management
 
 - Data is not properly cited or linked in publications
 - Links to research are broken 
@@ -62,14 +73,19 @@ What happens if you don't manage your data well ...
 
 - Again, refelcting on the video and your own experience, what are the impacts of bad data management on research?
 
+---
+
+## What is the impact of bad data management?
+
 - Research data is in a silo
   - Data cannot be re-used by other researchers or by yourself in future studies
   - Research could be unnecessarily duplicated
-  - Secondary research or cross-study research cannot happy
+  - Prevents secondary research or cross-study research from happening
 - Could jeopardise future research funding
 - Data could be less secure
 - Time wasted trying to understand data or organise data retrospectively
 
+- *Bad data management causes inefficiency and devalues the quality and usability of your research.*
 ---
 
 ## How to implement good data management 
@@ -84,13 +100,18 @@ What happens if you don't manage your data well ...
 
 ## Benefits of good data management
 
-- Improves efficiency of your research
-- Saves time by establishing robust documentation, stoarge and preservation processes
-- Reduces the risk of losing data and enhances lifespan of data
-- Required to obtain funding and/or meet funding bodies' requirements
-- Enables other researchers to use your research and encourages cross-study research
-- Reduces the potential for research duplication
-- Improves accuracy and security of your data
+Good data management improves ...
+
+- Efficiency
+  - Saves time by establishing robust documentation, stoarge and preservation processes
+  - Reduces the risk of losing data and enhances lifespan of data
+  - Reduces the potential for research duplication
+
+- Quality and value of your data
+  - Enables other researchers to use your research and encourages cross-study research
+  - Required to obtain funding and/or meet funding bodies' requirements
+  - Improves accuracy and security of your data
+
 
 ::: notes
 MANTRA - https://mantra.ed.ac.uk/datamanagementplanning/
@@ -108,8 +129,7 @@ MANTRA - https://mantra.ed.ac.uk/datamanagementplanning/
 ## Application: How strong is your data management? [#Worksheet]
 
 - Can you answer the following questions about your research?
-
-- [Data management plan checklist](https://www.dcc.ac.uk/sites/default/files/documents/resource/DMP_Checklist_2013.pdf)
+  - [Data management plan checklist](https://www.dcc.ac.uk/sites/default/files/documents/resource/DMP_Checklist_2013.pdf)
   
 ----
 
@@ -122,7 +142,7 @@ MANTRA - https://mantra.ed.ac.uk/datamanagementplanning/
   - DataOne: Data Management Module
   - Research Data Oxford: Data Management Plans Overview
  
-- Assess the quality of data currently:
+- If you have already started collecting data, you can assess the quality of your data with this tool:
   - [QAMyData](https://ukdataservice.ac.uk/about/research-and-development/past-projects/qamydata/)
     
 - Use these tools to help develop a robust Data Management Plan:
@@ -132,7 +152,16 @@ MANTRA - https://mantra.ed.ac.uk/datamanagementplanning/
   
 ---
 
+## FAIR data principles
+
+An important principle to underpin any data management approach is the FAIR data principles.
+
+---
+
 ## What is FAIR?
+
+You might have hear about FAIR before or this might be the first time you're coming across the principles. 
+Here is a short video to give an overview of what FAIR data is in research.
 
 [FAIR Data Video](https://www.youtube.com/results?search_query=what+is+research+data)
 
@@ -140,10 +169,14 @@ MANTRA - https://mantra.ed.ac.uk/datamanagementplanning/
 
 ## What is FAIR? 
 
+To summarise FAIR is:
+
 - **F**indable
 - **A**ccessible
 - **I**nteroperable
 - **R**e-usable
+
+What can we do as researchers to enact each of these principles?
 
 ::: notes
 [Go FAIR Principles](https://www.go-fair.org/fair-principles/)
@@ -159,7 +192,9 @@ MANTRA - https://mantra.ed.ac.uk/datamanagementplanning/
 
 - What you can do:
   - Link your publications/data to your ORCID ID [13]
+    - LINK TO HOW TO DO IT
   - Cite the data that you have used using a DOI
+    - LINK TO HOW TO CREATE
   - Deposit your data in an trusted repository/archive
      - Find an appropriate archive e.g. UKDS or your university
     - **Create rich metadata**
@@ -172,7 +207,9 @@ MANTRA - https://mantra.ed.ac.uk/datamanagementplanning/
 
 - What you can do:
   - Use standardised technology and available software
+    - EXAMPLE OF STANDARDISED tehcnology
   - Provide your data to repositories in their preferred format
+    - EXPLAIN WHERE TO FIND THIS
   - **Create rich metadata**
 ---
 
@@ -181,7 +218,7 @@ MANTRA - https://mantra.ed.ac.uk/datamanagementplanning/
 **Interoperable**: OVERVIEW
 
   - What you can do:
-      - **Create rich metadata** that adheres to the relevant standards
+      - **Create rich metadata** that adheres to the relevant metadata standards and schemas where possible
       - Use existing vocabularies, classifications, ontologies etc. when possible  
         - e.g. Controlled Vocabularies for mode of collection [11]
         - e.g. Survey responses Office for National statistics ethnic group classification [12]
@@ -199,10 +236,10 @@ MANTRA - https://mantra.ed.ac.uk/datamanagementplanning/
 
 ## Benefits of FAIR for your data
 
-- Maximises the value and usefulness of your data
+- Maximises the value and usefulness of your data (HOW)
 - Ensures long-term preservation of your data
-- Enables cross-study research
-- Speeds up the progress of research
+- Enables cross-study and secondary research
+- Speeds up the progress of research (HOW)
 - Improves our confidence in data and research
 
 ---
@@ -217,23 +254,6 @@ MANTRA - https://mantra.ed.ac.uk/datamanagementplanning/
 - Provides proof of transparent and valid conduct
 - Easier to search, find, assess and access useable, clear, understandable data in a straightforward and timely way
 
----
-
-## What was the recurring element that helped implement FAIR Principles?
-
----
-
-## What was the recurring element that helped implement FAIR Principles?
-
-Metadata!
-
-- Documenting your data through creating rich metadata is one of the most effective ways of implementing FAIR principles in your research
-- In the next module we will delve into exploring metadata including:
-  - What is metadata?
-  - How to identify what metadata is most important to create for own use and use by others
-  - How and when to create metadata
-  - Best practice in creating and using metadata
-    
 ---
 
 ## FAIR Data Assessment List
@@ -255,6 +275,24 @@ Jones, S. & Grootveld, M. (2017, November). How FAIR are your data? Zenodo. http
 [DANS FAIR Assessment tool](https://fairaware.dans.knaw.nl/) --> 10 questions that will take 10-30 mins
 
 :::
+
+---
+
+## What was the recurring element that helped implement FAIR Principles?
+
+---
+
+## What was the recurring element that helped implement FAIR Principles?
+
+Metadata!
+
+- Documenting your data through creating rich metadata is one of the most effective ways of implementing FAIR principles in your research
+- In the next module we will delve into exploring metadata including:
+  - What is metadata?
+  - How to identify what metadata is most important to create 
+  - How and when to create metadata
+  - Best practice in creating and using metadata
+
 ---
 
 ## Summary
