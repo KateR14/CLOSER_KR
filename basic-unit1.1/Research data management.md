@@ -1,0 +1,150 @@
+---
+title: Research data management
+author: Becky Oldroyd, Hayley Mills, Kate Reed
+date: March 30, 2025
+---
+
+## Intended Learning Outcome
+
+- Overview of research data management 
+- Reasons and benefits for data management
+- Understand Data Management Plans (DMP)
+- How to create DMPs
+  
+---
+
+## Outline [#trainer]
+- What is data management and why is it important? (Discussion and definition)
+- What is the impact of bad data management?
+- Overview of Data Management Plans (DMP)
+- Introduction to FAIR principles and how to implement them
+- Importance and benefits of FAIR data
+
+---
+
+## What is data management? [#Discussion]
+
+- Know we have covered what research data is, we can now look into what we do with it and how.
+- What do we mean by data management?
+
+::: notes
+Trainer: give 5-10 minutes for people to discuss what data management is before revealing the definition. Invite people to share their ideas with the group.
+:::
+
+---
+
+## Data management definition [#overview]
+
+  - "Research data management (RDM) is about handling research data effectively and appropriately throughout the life of a research project and beyond. Research data management refers to all aspects of creating, storing, sharing and archiving data and is an essential aspect of conducting responsible research" -- MANTRA
+
+::: notes
+ [MANTRA](https://mantra.ed.ac.uk/datamanagementplanning/)
+:::
+  
+## Bad data management 
+
+What happens if you don't manage your data well ...
+
+[Sam1 Video](https://www.youtube.com/watch?v=N2zK3sAtr-4)
+
+---
+
+## Bad data management (Discussion)
+
+- Reflecting on the video you've just watched as well as your own experience, what are some examples of bad data management?
+
+---
+
+## Examples of bad data management
+
+- Data is not properly cited or linked in publications
+- Links to research are broken 
+- Limited information about the data
+- Data in unusable or proprietary software
+- No information about the data sharing policy or
+- Unclear data access process, how long it takes, cost etc.
+- Limited context to understand the data
+
+---
+
+## What is the impact of bad data management?
+
+- Again, refelcting on the video and your own experience, what are the impacts of bad data management on research?
+
+---
+
+## What is the impact of bad data management?
+
+- Research data is in a silo
+  - Data cannot be re-used by other researchers or by yourself in future studies
+  - Research could be unnecessarily duplicated
+  - Prevents secondary research or cross-study research from happening
+- Could jeopardise future research funding
+- Data could be less secure
+- Time wasted trying to understand data or organise data retrospectively
+
+- *Bad data management causes inefficiency and devalues the quality and usability of your research.*
+---
+
+## How to implement good data management 
+
+- Develop a robust Data Management Plan (DMP) at the begining of your research project
+- Implement FAIR data principles 
+- Create metadata that adheres to relevant standards
+
+---
+
+## Benefits of good data management
+
+Good data management improves ...
+
+- Efficiency
+  - Saves time by establishing robust documentation, stoarge and preservation processes
+  - Reduces the risk of losing data and enhances lifespan of data
+  - Reduces the potential for research duplication
+
+- Quality and value of your data
+  - Enables other researchers to use your research and encourages cross-study research
+  - Required to obtain funding and/or meet funding bodies' requirements
+  - Improves accuracy and security of your data
+
+
+::: notes
+MANTRA - https://mantra.ed.ac.uk/datamanagementplanning/
+:::
+
+---
+
+## *EXAMPLE NEEDED* - Case study of good data management
+
+- E.g. show a study which has good data documentation / management with a strong DMP
+-  Pick a study whose findings have had an impact on policy/industry as well as been the subject of secondary research and/or cross study research
+
+---
+
+## Application: How strong is your data management? [#Worksheet]
+
+- Can you answer the following questions about your research?
+  - [Data management plan checklist](https://www.dcc.ac.uk/sites/default/files/documents/resource/DMP_Checklist_2013.pdf)
+  
+----
+
+## Data Management Tools and Resources [#Overview]
+
+- Develop your knowledge of Data Management using these resources:
+  - [How to Develop a Data Management and Sharing Plan - DDC Guide](https://www.dcc.ac.uk/guidance/how-guides/develop-data-plan#Advice%20on%20how%20to%20plan)
+  - DataTree: Data Management (Context) and Data Management (Practicalities) modules
+  - MANTRA Data Management Training
+  - Queen Mary's Research Data Management Training
+  - DataOne: Data Management Module
+  - Research Data Oxford: Data Management Plans Overview
+ 
+- If you have already started collecting data, you can assess the quality of your data with this tool:
+  - [QAMyData](https://ukdataservice.ac.uk/about/research-and-development/past-projects/qamydata/)
+    
+- Use these tools to help develop a robust Data Management Plan:
+  - [DMPonline](https://dmponline.dcc.ac.uk/): provided by the Digital Curation Centre (DCC), DMPonline facilitates the creation, review, and sharing of data management plans. The online, open resource contains DMP templates and public DMPs for reference.
+  - [DMP Tool](https://dmptool.org/plans): this online, open resources contains public DMPs for reference as well as a list of funder requirements to ensure DMPs meet the criteria of the funding body.
+  - [Data Management Costing Tool](https://ukdataservice.ac.uk/app/uploads/costingtool.pdf]
+  
+## References
