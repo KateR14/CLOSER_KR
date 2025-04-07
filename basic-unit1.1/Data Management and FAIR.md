@@ -90,10 +90,8 @@ What happens if you don't manage your data well ...
 
 ## How to implement good data management 
 
-- Develop a robust Data Management Plan (DMP) at the begining of your research project. A DMP should consider:
-  - Conside
-
-- Enact FAIR data principles 
+- Develop a robust Data Management Plan (DMP) at the begining of your research project
+- Implement FAIR data principles 
 - Create metadata that adheres to relevant standards
 
 ---
@@ -162,15 +160,14 @@ An important principle to underpin any data management approach is the FAIR data
 ## What is FAIR?
 
 You might have hear about FAIR before or this might be the first time you're coming across the principles. 
+
 Here is a short video to give an overview of what FAIR data is in research.
 
 [FAIR Data Video](https://www.youtube.com/results?search_query=what+is+research+data)
 
 ---
 
-## What is FAIR? 
-
-To summarise FAIR is:
+## What is FAIR? [#Overview]
 
 - **F**indable
 - **A**ccessible
@@ -207,9 +204,15 @@ What can we do as researchers to enact each of these principles?
 Whyte, A. (2015). ‘Where to keep research data: DCC checklist for evaluating data repositories’ v.1.1 Edinburgh: Digital Curation Centre. Available online: www.dcc.ac.uk/resources/how-guides
 ---
 
-## **F**indable practice task
+## **F**indable practice tasks
 
-**Findable**: Using this tool, find the trusted repository or archive that is best suited for your data.
+**Findable** task 1: Using this tool, find the trusted repository or archive that is best suited for your data.
+
+**Findable** task 2: Using this tool, creat a DOI for your research
+
+::: notes
+
+:::
 
 ---
 
