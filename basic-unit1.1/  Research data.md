@@ -82,7 +82,16 @@ What does Wikipedia tell us?
 
 - Data can be ...
     - Qualitative / Quantitative 
-    - *Should we include nominal, ordinal, discrete and continous?*
+    - *Should we include nominal, ordinal, scale // discrete and continous?* - not name SATA and SPSS but introduce the concepts here?
+    - 
+| Data  | Type  | SATA | SPSS  | 
+|---- --|-------|------|-------|
+|       |       |      |       |              
+
+
+   - Numbers e.g. 16*
+  - Text e.g. 'Sunny conditions will continue all day.'
+  - Symbols e.g. ☀️
 ---
 
 ## Data in research [#Overview]
