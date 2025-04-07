@@ -136,6 +136,7 @@ MANTRA - https://mantra.ed.ac.uk/datamanagementplanning/
 ## Data Management Tools and Resources [#Overview]
 
 - Develop your knowledge of Data Management using these resources:
+  - [How to Develop a Data Management and Sharing Plan - DDC Guide](https://www.dcc.ac.uk/guidance/how-guides/develop-data-plan#Advice%20on%20how%20to%20plan)
   - DataTree: Data Management (Context) and Data Management (Practicalities) modules
   - MANTRA Data Management Training
   - Queen Mary's Research Data Management Training
@@ -191,14 +192,25 @@ What can we do as researchers to enact each of these principles?
 **Findable**: other researchers can easily find your data both by hand and by machine software.
 
 - What you can do:
-  - Link your publications/data to your ORCID ID [13]
-    - LINK TO HOW TO DO IT
-  - Cite the data that you have used using a DOI
-    - LINK TO HOW TO CREATE
+  - Link your publications/data 
+    - [How to Cite Datasets and Link to Publications DDC Guide](https://www.dcc.ac.uk/guidance/how-guides/cite-datasets)
+  - Cite the data that you have used using a DOI or PID
+    - Consider creating an Orchid ID
+    - DataCite Scheme
   - Deposit your data in an trusted repository/archive
      - Find an appropriate archive e.g. UKDS or your university
+     - [Where to keep research data - DDC guide](https://www.dcc.ac.uk/guidance/how-guides/where-keep-research-data)
     - **Create rich metadata**
-    
+
+::: notes
+
+Whyte, A. (2015). ‘Where to keep research data: DCC checklist for evaluating data repositories’ v.1.1 Edinburgh: Digital Curation Centre. Available online: www.dcc.ac.uk/resources/how-guides
+---
+
+## **F**indable practice task
+
+**Findable**: Using this tool, find the trusted repository or archive that is best suited for your data.
+
 ---
 
 ## **A**ccessible
@@ -211,6 +223,13 @@ What can we do as researchers to enact each of these principles?
   - Provide your data to repositories in their preferred format
     - EXPLAIN WHERE TO FIND THIS
   - **Create rich metadata**
+
+---
+
+## **A**ccessible example
+
+**Accessible**:Screenshot of reserach that uses standardised technology, good metadata and
+
 ---
 
 ## **I**nteroperable
@@ -285,8 +304,8 @@ Jones, S. & Grootveld, M. (2017, November). How FAIR are your data? Zenodo. http
 ## What was the recurring element that helped implement FAIR Principles?
 
 Metadata!
-
 - Documenting your data through creating rich metadata is one of the most effective ways of implementing FAIR principles in your research
+  
 - In the next module we will delve into exploring metadata including:
   - What is metadata?
   - How to identify what metadata is most important to create 
