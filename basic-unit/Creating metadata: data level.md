@@ -1,0 +1,16 @@
+---
+title: Unit 2.6 Creating metadata: data level
+author: Kate Reed
+date: April 09, 2025
+---
+
+## Intended learning outcomes 
+
+- Who needs to create data level metadata?
+- When do we create data level metadata?
+- How do we create data level metadata?
+- Making data level metadata
+
+---
+
+
