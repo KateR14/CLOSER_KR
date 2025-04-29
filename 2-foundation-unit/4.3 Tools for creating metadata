@@ -1,3 +1,5 @@
 
 - Deepdive: Metadata schemas and standards
+  - Using namespace to indicate what schema a metadata element belongs to
 - Deepdive: Controlled vocabularies (taxonomies, onotologies and classifications)
+  
